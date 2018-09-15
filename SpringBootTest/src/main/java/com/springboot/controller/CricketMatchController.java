@@ -39,7 +39,7 @@ public class CricketMatchController {
 		public String checkStatus() 
 		
 		{
-			System.out.println("healthCheck called");
+			System.out.println("healthCheck");
 			return "Success";
 		}
 		
